@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Catalog AUDI</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title1">AUDI</string>
+    <string name="title2">AUDI</string>
+    <string name="title3">AUDI</string>
+    <string name="title4">AUDI</string>
+    <string name="title5">AUDI</string>
+    <string name="title6">AUDI</string>
+    <string name="title7">AUDI</string>
+    <string name="description1">A3</string>
+    <string name="description2">A4</string>
+    <string name="description3">A5</string>
+    <string name="description4">RS6</string>
+    <string name="description5">A7</string>
+    <string name="description6">A8</string>
+    <string name="description7">R8</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+
+</resources>
